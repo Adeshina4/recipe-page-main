@@ -35,7 +35,6 @@ p{
   font-size: "Young" Serif;
   font-weight: 400;
   font-size: 14px;
-  opacity: 0.5; 
   margin-top: 0.5rem;
 }
 h3{
@@ -54,7 +53,6 @@ li{
  font-size: "Young" Serif;
  font-weight: 400;
  font-size: 14px;
- opacity: 0.5;
  margin: 0.50rem;
 }
 hr{
@@ -72,6 +70,10 @@ hr{
 .nutrition-table{
   margin-top: 2rem;
   display: flex;
+
+}
+.nutri-value{
+  color: hsl(332, 51%, 32%);
 }
 h2{
   color: hsl(14, 45%, 36%);
